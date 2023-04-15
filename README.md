@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SchoolSpice
+- 👋 Hi, I’m @SchoolSpice - A second account for @DigitalSpice for school related projects
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Javascript/React
+- 💞️ I’m looking to collaborate on any projects for frontend
 - 📫 How to reach me ...
 
 <!---
